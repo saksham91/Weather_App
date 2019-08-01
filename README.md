@@ -2,6 +2,7 @@
 
 A small weather app in ES6 and Node.js which takes the weather data from Darksky API and uses Google's Places API to generate city names
 
+* Uses Darksky API and Google's Places API
 * Wind speed and temperature units are identified automatically by the location chosen
 * Weather logos are taken from [Skycons](https://darkskyapp.github.io/skycons/)
 
